@@ -1,6 +1,6 @@
 #net.py
 #@author imkh 
-#modify by qixuxiang
+#modify by wuzeming 2019/3/29
 import urllib.request
 import random
 import re
